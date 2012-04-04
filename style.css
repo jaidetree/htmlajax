@@ -1,0 +1,11 @@
+nav ul li
+{
+	display: inline-block;
+	margin: 10px;
+	background: #ccc;
+}
+nav ul li a
+{
+	display: block;
+	padding: 10px 20px;
+}
